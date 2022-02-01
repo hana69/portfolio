@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="typical magic(2018sagi).csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\SelectBehavior.cs">
+    <Files>
+      <File FileName="Assets\Scripts\SelectBehavior.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\InputSpell.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TextController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Enemy.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BattleSequence.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

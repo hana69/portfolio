@@ -1,0 +1,21 @@
+﻿at a 5 物理 2
+at x 1000 物理 3
+at punch 10 物理 4
+at fire 15 炎 5
+at aqua 15 水 5
+at wind 15 風 5
+at elec 15 雷 5
+re heal 30 5
+at BIG_BAN 50 爆発 5
+at IcicleDisaster 30 氷 10
+sebf IceCristal 1 1 20
+at Absolute_ZERO 100 氷 100
+at GiantSlash 70 物理 25
+df GrandDeffence 2
+ch PowerSummarize 3
+at AllowRain 55 物理 7
+at BIG_BAN 30 爆発 5
+at Absolute_ZERO 100 氷 100
+re el_heal 50 15
+ch PowerSummarize 3
+enbf CurseDulling -3 -3 50
